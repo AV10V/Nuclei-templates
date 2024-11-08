@@ -2,7 +2,7 @@ id: apache-buffer-overflow
 
 info:
   name: Apache HTTP Server Outdated Version - Buffer Overflow
-  author: ProjectDiscoveryAI
+  author: AV10V
   severity: high
   description: |
     This template checks for outdated Apache HTTP Server versions that might be susceptible to a buffer overflow vulnerability. 
